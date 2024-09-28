@@ -46,17 +46,6 @@ This is the Value Object (VO) class that represents the data model. It includes:
 - First Name
 - Last Name
 
-## Setup and Configuration
-
-1. Ensure you have a compatible version of Spring Framework and Hibernate in your project.
-2. Configure your database connection in the application's configuration file.
-3. Create a table named `Spring_Reg` in your database with columns: `Id`, `FirstName`, and `LastName`.
-
-## Usage
-
-1. Run the application on a suitable application server.
-2. Access the registration form via the `/load.html` endpoint.
-3. Use the provided interface to perform CRUD operations.
 
 ## Dependencies
 
